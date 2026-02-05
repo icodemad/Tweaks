@@ -1,0 +1,8 @@
+{
+    "name": "Global Uniques",
+    "uniques": [
+        ],
+    "unitUniques": [
+      "[This Unit] heals [2] HP <if it hasn't used other actions yet> <when below [40] HP> <for [Water] units>"
+      ]
+}
