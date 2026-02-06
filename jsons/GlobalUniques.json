@@ -3,6 +3,7 @@
     "uniques": [
         ],
     "unitUniques": [
-      "[This Unit] heals [2] HP <if it hasn't used other actions yet> <when below [40] HP> <for [Water] units>"
+        "[This Unit] heals [1] HP <upon turn end> <if it hasn't used other actions yet> <when below [25] HP> <for [Water] units>",
+        "[This Unit] heals [1] HP <upon turn end> <if it hasn't used other actions yet> <when below [50] HP> <for [Water] units> <in [{non-[Friendly]} {non-[Enemy]}] tiles> <in tiles adjacent to [{non-[Enemy]} {Coastal} {Land}] tiles>"
       ]
 }
